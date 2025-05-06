@@ -45,6 +45,7 @@ Example:
 
 1a. Ignoring and closing the special offered products
 
+| | |
 | --- | --- |
 | Given that | I'm a website user |
 | When       | I do not want to buy the special product |
@@ -52,6 +53,7 @@ Example:
 
 1b. Adding the offered product to the shopping cart
 
+| | |
 | --- | --- |
 | Given that | I'm a website user |
 | When       | I selected the offered product |
