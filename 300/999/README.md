@@ -157,7 +157,7 @@ Example:
 
 Source: [How To Craft A Compelling Problem Statement](https://www.antler.co/academy/how-to-write-a-problem-statement)
 
-A good problem statement is beautiful in its simplicity. It should be a one or two sentence statement that clearly articulates a problem that you—and your business—want to address. Its purpose is to inspire creative thinking but (and this is critical), it is not there to describe the solution.
+A good problem statement is beautiful in its simplicity. It should be a one or two sentence statement that clearly articulates a problem that you — and your business — want to address. Its purpose is to inspire creative thinking but (and this is critical), it is not there to describe the solution.
 
 ### 100 - The seven questions behind every good problem statement
 
