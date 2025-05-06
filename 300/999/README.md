@@ -75,6 +75,8 @@ Example:
 
 > **As** a user **I would like** to use a search field to type a city, name, or street **so that** I can find matching hotel options.
 
+| | |
+| --- | --- |
 | 01 | At the top of the page, there is a search field. |
 | 02 | Clicking "Search" initiates the search process. |
 | 03 | A placeholder with grey-colored text appears in the field: "Where are you off to?" |
