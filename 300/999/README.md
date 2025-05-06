@@ -209,7 +209,29 @@ If it has all this information, congratulations — you’ve got the material th
 
 ## 900 - High Level Solution
 
-...
+Source: [Solution design document](https://academy.pega.com/topic/solution-design-document/v2)
+
+The solution design document (SDD) defines the overall goals and objectives of the solution while also capturing the automation processes that are necessary to complete the solution. Developers receive the SDD, divide the work, and then focus on specific portions of the solution.
+
+As a best practice, read the SDD entirely, even if you are only developing one portion of the total solution. By following the document, you can ensure a more seamless integration of the supporting processes or applications in your project.
+
+The SDD has two main sections: the overview and the storyboard.
+
+### 100 - Overview
+
+The overview of the SDD provides a high-level description of the solution and projects. The description contains the business driver and success metrics that the team must meet once the development and deployment of the solution are complete. This information gives insight into the reasoning behind the solution and its need and priority.
+
+### 200 - Storyboard
+
+The storyboard is a visual representation of the overall look and feel of the completed solution. The storyboard has separate referenceable, numbered processes that can help you define the flow and functionality of the solution.
+
+The storyboard has three feature areas: UI Feature, Data Feature, and the Rules or Processes Feature. Depending on the needs of your solution, there might be more or fewer feature options. You configure the information in each feature area to:
+
+Describe the workflow and specific tasks of the solution by referenced storyboard items.
+Provide specific information steps to automate, including specific requirements related to the storyboard phase (such as ASO for login, testing criteria, and assumptions).
+The storyboard also maps the solution through the different processes that you define. This storyboard map outlines the overall flow of the solution and the interaction points between projects and applications, as shown in the following figure:
+
+![Image](https://github.com/user-attachments/assets/41cf9b5f-f134-4735-b57c-746b28ed9800)
 
 ## 1000 - In Scope
 
