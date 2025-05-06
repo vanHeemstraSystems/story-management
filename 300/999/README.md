@@ -241,6 +241,21 @@ Non-functional requirements are the criteria that define how a system should beh
 
 ![Image](https://github.com/user-attachments/assets/a361e034-d90c-4754-b02e-2fb52f1834a3)
 
+- **Security** — Does your product store or transmit sensitive information? Does your IT department require adherence to specific standards? What security best practices are used in your industry?
+
+- **Capacity** — What are your system’s storage requirements, today and in the future? How will your system scale up for increasing data storage volume demands?
+
+- **Compatibility** — What are the minimum hardware requirements? What operating systems and their versions must be supported?
+
+- **Reliability and Availability** — What is the critical failure time under normal usage? Does a user need access to this all hours of every day?
+
+- **Maintainability and Manageability** — How much time does it take to fix components, and how easily can an administrator manage the system? Under this umbrella, you could also define Recoverability and Serviceability.
+
+- **Scalability** – The Black Friday test. What are the highest workloads under which the system will still perform as expected?
+
+- **Usability** — How easy is it to use the product? What defines the experience of using the product?
+
+
 MORE ...
 
 ## 1100 - Monitoring
