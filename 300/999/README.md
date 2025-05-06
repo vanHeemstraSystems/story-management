@@ -84,7 +84,7 @@ Example:
 | 05 | When a user types in a city, hotel name, street, or all three, a search is performed. |
 | 06 | There are four languages available for search: English, French, German, and Ukrainian. |
 | 07 | There is a limit of 200 symbols per user. |
-| 08 | Special characters cannot be searhced for. Display the warning message: "Search input cannot contain special symbols." if a special symbol is typed. |
+| 08 | Special characters cannot be searched for. Display the warning message: "Search input cannot contain special symbols." if a special symbol is typed. |
 
 ## 400 - In Scope
 
