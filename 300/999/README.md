@@ -104,33 +104,37 @@ Example:
 | 07 | There is a limit of 200 symbols per user. |
 | 08 | Special characters cannot be searched for. Display the warning message: "Search input cannot contain special symbols." if a special symbol is typed. |
 
-## 600 - Problem Statement
+## 600 - User Interaction
 
 ...
 
-## 700 - Possible Solution Directions
+## 700 - Problem Statement
 
 ...
 
-## 800 - High Level Solution
+## 800 - Possible Solution Directions
 
 ...
 
-## 900 - In Scope
+## 900 - High Level Solution
+
+...
+
+## 1000 - In Scope
 
 - Something in scope
 - Something else in scope
 
-## 1000 - Out of Scope
+## 1100 - Out of Scope
 
 - Something out of scope
 - Something else out of scope
 
-## 1100 - Definition of Ready (DoR)
+## 1200 - Definition of Ready (DoR)
 
 ...
 
-## 1200 - Definition of Done (DoD)
+## 1300 - Definition of Done (DoD)
 
 Source: https://theproductmanager.com/general/how-to-write-excellent-acceptance-criteria-with-examples/
 
@@ -151,11 +155,11 @@ e.g.,
 
 This means that the **definition of done** will remain the same for all the stories that the team is implementing unless they decide to make changes to it during the retrospectives. The **acceptance criteria**, on the other hand, are unique for each story as they are explaining the way that feature should work.
 
-## 1300 - Next Steps
+## 1400 - Next Steps
 
 Explanation of what are the next steps for this story.
 
-## 1400 - Additional Information
+## 1500 - Additional Information
 
 | | |
 | --- | --- |
