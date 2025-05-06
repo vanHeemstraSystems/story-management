@@ -263,6 +263,8 @@ Non-functional requirements are the criteria that define how a system should beh
 
 ## 1100 - Monitoring
 
+Source: [Writing user stories to drive observability usage](https://medium.com/contino-engineering/writing-user-stories-to-drive-observability-usage-a86b885019)
+
 ...
 
 ## 1200 - Dependencies
