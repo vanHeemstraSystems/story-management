@@ -223,7 +223,9 @@ If it has all this information, congratulations — you’ve got the material th
 
 ## 1200 - Definition of Ready (DoR)
 
-...
+Source: [Definition of Ready: What It Is and Why Its Dangerous](https://www.mountaingoatsoftware.com/blog/the-dangers-of-a-definition-of-ready)
+
+MORE ...
 
 ## 1300 - Definition of Done (DoD)
 
