@@ -49,7 +49,30 @@ How do I write a **SMART** goal plan?
 
 ## 400 - Business Value
 
-...
+Source: [What is Business Value: Definition, Components, and Strategies](https://www.invensislearning.com/blog/what-is-business-value/)
+
+### 100 - How to Measure Business Value?
+
+The subjective and dynamic nature of business value may land you on the question that whether it can be measured or not and the answer is yes. The following factors can help you determine it for a particular organization:
+
+- Revenue
+- Profitability
+- Market share
+- Brand recognition
+- Customer loyalty
+- Customer retention
+- Share of wallet
+- Cross-selling ratio
+- Campaign response rate
+- Customer satisfaction
+
+### 200 - Must-Have Values
+
+For a project to be able to deliver business value, it should ensure the following conditions:
+
+- It should have a clear objective.
+- The project should be aligned with the business goals.
+- It should have required stakeholder support.
 
 ## 500 - Acceptance Criteria
 
