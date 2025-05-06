@@ -39,6 +39,14 @@ Source: [The Infinite Product Manager](https://medium.com/@skibinski.james/the-i
 
 In a product team, the infinite-minded product manager will work with the finite-minded development team to advance toward the infinite, one finite step at a time. The team may not succeed in all their finite goals, but they will learn valuable lessons that will still take them closer to the just cause.
 
+How do I write a **SMART** goal plan?
+
+- **S**pecific: Start by asking exactly what you need to accomplish. This will make your goal specific.
+- **M**easurable: Quantify your goals. Measurable goals are easier to track, so build in milestones.
+- **A**chievable: Your goal should be achievable. ...
+- **R**ealistic: Think why you're setting this goal. ...
+- **T**imely: Know exactly when you'll have reached your goal.
+
 ## 400 - Business Value
 
 ...
