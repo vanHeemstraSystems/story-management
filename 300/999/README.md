@@ -2,16 +2,25 @@
 
 ## 100 - Description
 
+- Who
+- What
+- Why
+
 For example:
 
-**As a** [Role: e.g., Product Owner]<br/>
-**I want to** [Want: e.g., set and design a framework and guidelines for the copy pasting policy]<br/>
-**in order to** [Need: e.g., protect the company source code].
+**As a** [Who/Role: e.g., Product Owner]<br/>
+**I want to** [What/Want: e.g., set and design a framework and guidelines for the copy pasting policy]<br/>
+**in order to** [Why/Need: e.g., protect the company source code].
 
-## 200 - ...
+## 200 - Rationale
 
+...
 
-## 300 - Acceptance Criteria
+## 300 - Business Value
+
+...
+
+## 400 - Acceptance Criteria
 
 Source: https://tech-stack.com/blog/how-to-craft-clear-acceptance-criteria/
 
@@ -86,16 +95,39 @@ Example:
 | 07 | There is a limit of 200 symbols per user. |
 | 08 | Special characters cannot be searched for. Display the warning message: "Search input cannot contain special symbols." if a special symbol is typed. |
 
-## 400 - In Scope
+## 500 - Problem Statement
+
+...
+
+## 600 - Possible Solution Directions
+
+...
+
+## 700 - High Level Solution
+
+...
+
+## 800 - In Scope
 
 - Something in scope
 - Something else in scope
 
-## ??? - Out of Scope
+## 900 - Out of Scope
 
 - Something out of scope
 - Something else out of scope
 
-## ??? - Possible Solution Directions
+## 1000 - Next Steps
 
-## ??? - ...
+Explanation of what are the next steps for this story.
+
+## 1100 - Additional Information
+
+| | |
+| --- | --- |
+| Dependencies | A team or a person, or else ... |
+| Key Stakeholders | A team or a person, or else ... |
+| Risks and Mitigations | **Risks**: ... <br/> **Mitigations**: ... |
+| Include in Sprint Review | Yes/No |
+| Demo-able | Yes/No |
+| Additional Links | [Provide extra information or links here] |
