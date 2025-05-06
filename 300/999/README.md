@@ -14,7 +14,12 @@ For example:
 
 ## 200 - Rationale
 
-...
+For example:
+
+**We believe** providing a well-prepared environment for the FooBar application
+**will** result in reducing deployment issues and post-deployment performance concerns
+**by** at least 50%
+**by** the end of Q4 2024.
 
 ## 300 - Business Value
 
