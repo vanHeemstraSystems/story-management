@@ -151,7 +151,15 @@ Example:
 
 ## 600 - User Interaction
 
-...
+Source: [How To Design User Scenarios](https://www.justinmind.com/blog/how-to-design-user-scenarios/)
+
+### Step 1: Identify Your Users
+
+### Step 2: Define The Context
+
+### Step 3: Focus On User Goals
+
+### Step 4: Map Out The Steps
 
 ## 700 - Problem Statement
 
