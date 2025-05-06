@@ -237,8 +237,11 @@ The storyboard also maps the solution through the different processes that you d
 
 Source: [Non-functional Requirements: What They Do, Examples, and Best Practices](https://www.perforce.com/blog/alm/what-are-non-functional-requirements-examples)
 
+Non-functional requirements are the criteria that define how a system should behave, rather than what it is supposed to do. Unlike functional requirements, which describe specific system functions, non-functional requirements define aspects like performance, security, usability, reliability, and scalability. 
 
-...
+![Image](https://github.com/user-attachments/assets/a361e034-d90c-4754-b02e-2fb52f1834a3)
+
+MORE ...
 
 ## 1100 - Monitoring
 
