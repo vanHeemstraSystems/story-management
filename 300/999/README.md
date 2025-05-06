@@ -261,8 +261,6 @@ Non-functional requirements are the criteria that define how a system should beh
 
 - **Environmental** — What types of environments will the system be expected to perform within?
 
-MORE ...
-
 ## 1100 - Monitoring
 
 ...
