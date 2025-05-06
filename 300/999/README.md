@@ -233,17 +233,33 @@ The storyboard also maps the solution through the different processes that you d
 
 ![Image](https://github.com/user-attachments/assets/41cf9b5f-f134-4735-b57c-746b28ed9800)
 
-## 1000 - In Scope
+## 1000 - Non-Functional Requirements
+
+Source: [Non-functional Requirements: What They Do, Examples, and Best Practices](https://www.perforce.com/blog/alm/what-are-non-functional-requirements-examples)
+
+
+...
+
+## 1100 - Monitoring
+
+...
+
+## 1200 - Dependencies
+
+...
+
+
+## 1300 - In Scope
 
 - Something in scope
 - Something else in scope
 
-## 1100 - Out of Scope
+## 1400 - Out of Scope
 
 - Something out of scope
 - Something else out of scope
 
-## 1200 - Definition of Ready (DoR)
+## 1500 - Definition of Ready (DoR)
 
 Source: [Definition of Ready: What It Is and Why Its Dangerous](https://www.mountaingoatsoftware.com/blog/the-dangers-of-a-definition-of-ready)
 
@@ -274,11 +290,11 @@ e.g.,
 
 This means that the **definition of done** will remain the same for all the stories that the team is implementing unless they decide to make changes to it during the retrospectives. The **acceptance criteria**, on the other hand, are unique for each story as they are explaining the way that feature should work.
 
-## 1400 - Next Steps
+## 1600 - Next Steps
 
 Explanation of what are the next steps for this story.
 
-## 1500 - Additional Information
+## 1700 - Additional Information
 
 | | |
 | --- | --- |
