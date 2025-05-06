@@ -255,6 +255,11 @@ Non-functional requirements are the criteria that define how a system should beh
 
 - **Usability** — How easy is it to use the product? What defines the experience of using the product?
 
+- **Performance** — How quickly does the system respond to users’ actions, or how long does a user wait for a specific operation to happen?
+
+- **Regulatory** — Are there specific requirements you need to satisfy for compliance in your industry?
+
+- **Environmental** — What types of environments will the system be expected to perform within?
 
 MORE ...
 
