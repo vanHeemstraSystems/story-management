@@ -40,7 +40,7 @@ Both types are key to making sure that features are actually useful to users.
 
 AC scenarios help to ensure that **features work as intended** in real-world settings.
 
-This type of approach is useful for complex features that will be used in multiple ways. This type of AC list helps to ensure that the final product will help users in a variety of scenarios. For example, if the development team is working on a new search feature, the scenario-oriented AC might specify that the feature must be able to handle misspellings and return results from different parts of the website. In addition, it can also help to identify potential problems during development, allowing team members to make changes before the product is released. The common formula that represents the AC scenario is as follows:
+This type of approach is useful for complex features that will be used in multiple ways. This type of AC list helps to ensure that the final product will help users in a variety of scenarios. For example, if the development team is working on a new search feature, the scenario-oriented AC might specify that the feature must be able to handle misspellings and return results from different parts of the website. In addition, it can also help to identify potential problems during development, allowing team members to make changes before the product is released. The common formula from Behavior-Driven Development (BDD) that represents the AC scenario is as follows:
 
 - **Given** {pre-condition}
 - **When** {action}
@@ -117,11 +117,36 @@ Example:
 - Something out of scope
 - Something else out of scope
 
-## 1000 - Next Steps
+## 1000 - Definition of Ready (DoR)
+
+...
+
+## 1100 - Definition of Done (DoD)
+
+Source: https://theproductmanager.com/general/how-to-write-excellent-acceptance-criteria-with-examples/
+
+The **definition of done** represents completeness in terms of the team’s development processes:
+
+e.g., 
+
+- We have written the unit tests and all of them pass.
+- We do not have any showstopper bugs left.
+- We have communicated the changes with the product documentation team.
+
+While the **acceptance criteria** are representing functional requirements (how the feature should look and behave).
+
+e.g.,
+
+- When clicking on the "edit" button, a modal should open where the user can edit the name. {screenshot_with_modal_design}
+- When editing the name and clicking on "Save", the modal should close, the name should change, and the user should see a success message about it.
+
+This means that the **definition of done** will remain the same for all the stories that the team is implementing unless they decide to make changes to it during the retrospectives. The **acceptance criteria**, on the other hand, are unique for each story as they are explaining the way that feature should work.
+
+## 1200 - Next Steps
 
 Explanation of what are the next steps for this story.
 
-## 1100 - Additional Information
+## 1300 - Additional Information
 
 | | |
 | --- | --- |
