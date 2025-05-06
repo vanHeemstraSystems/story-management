@@ -33,6 +33,9 @@ Source: [Using a Goal-Driven Approach to Structure User Story Sets](http://www.s
 - A **hard-goal** is a condition or state of affairs in the world that the stakeholders would like to achieve 
 - A **soft-goal** is a condition or state of affairs in the world that the actor would like to achieve. But unlike a hard-goal, there are no clear-cut criteria for whether the condition is achieved, and it is up to the developer to judge whether a particular state of affairs in fact achieves sufficiently the stated soft-goal
 
+![Image](https://github.com/user-attachments/assets/adac1ad5-577a-435f-9992-e703990b2cfb)
+
+
 ...
 
 ## 400 - Business Value
