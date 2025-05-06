@@ -227,6 +227,8 @@ Source: [Definition of Ready: What It Is and Why Its Dangerous](https://www.moun
 
 What does **definition of ready** mean? It means that the user story or product backlog item meets a set of team-established criteria as to whether the story is ready for a sprint. These criteria are typically things like small enough to fit in a sprint, has acceptance criteria, and so on.
 
+You can think of a definition of ready as a big, burly bouncer standing at the door of the iteration. Just as a bouncer at a nightclub only lets certain people in—the young, the hip, the stylishly dressed—our definition-of-ready bouncer only allows certain user stories to enter the iteration.
+
 MORE ...
 
 ## 1300 - Definition of Done (DoD)
