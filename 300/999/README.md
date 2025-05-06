@@ -35,8 +35,9 @@ Source: [Using a Goal-Driven Approach to Structure User Story Sets](http://www.s
 
 ![Image](https://github.com/user-attachments/assets/adac1ad5-577a-435f-9992-e703990b2cfb)
 
+Source: [The Infinite Product Manager](https://medium.com/@skibinski.james/the-infinite-product-manager-a383d8ea23c3)
 
-...
+In a product team, the infinite-minded product manager will work with the finite-minded development team to advance toward the infinite, one finite step at a time. The team may not succeed in all their finite goals, but they will learn valuable lessons that will still take them closer to the just cause.
 
 ## 400 - Business Value
 
