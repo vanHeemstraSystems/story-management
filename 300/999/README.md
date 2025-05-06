@@ -205,7 +205,7 @@ If it has all this information, congratulations — you’ve got the material th
 
 ## 800 - Possible Solution Directions
 
-...
+Source: [40 problem-solving techniques and processes](https://www.sessionlab.com/blog/problem-solving-techniques/)
 
 ## 900 - High Level Solution
 
