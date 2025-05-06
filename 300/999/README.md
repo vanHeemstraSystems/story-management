@@ -27,6 +27,12 @@ Source: [Using a Goal-Driven Approach to Structure User Story Sets](http://www.s
 
 ![Image](https://github.com/user-attachments/assets/a5c98b42-8a91-4e6f-909e-cb0fdad9c486)
 
+- A **role** is an abstract characterization of the behavior of a social actor within some specialized context or domain of endeavor 
+- A **task** species a particular way of attaining a goal 
+- A **capability** represents the ability of an actor to dene, choose, and execute a plan for the fulfillment of a goal, given certain world conditions and in the presence of a specific event 
+- A **hard-goal** is a condition or state of affairs in the world that the stakeholders would like to achieve 
+- A **soft-goal** is a condition or state of affairs in the world that the actor would like to achieve. But unlike a hard-goal, there are no clear-cut criteria for whether the condition is achieved, and it is up to the developer to judge whether a particular state of affairs in fact achieves sufficiently the stated soft-goal
+
 ...
 
 ## 400 - Business Value
