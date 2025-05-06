@@ -229,7 +229,7 @@ What does **definition of ready** mean? It means that the user story or product 
 
 You can think of a definition of ready as a big, burly bouncer standing at the door of the iteration. Just as a bouncer at a nightclub only lets certain people in—the young, the hip, the stylishly dressed—our definition-of-ready bouncer only allows certain user stories to enter the iteration.
 
-MORE ...
+**Warning**: When a definition of ready includes a rule that something must be done before the next thing can start, it moves the team dangerously close to stage-gate process. And that will hamper the team’s ability to be agile. A stage-gate approach is, after all, another way of describing a waterfall process.
 
 ## 1300 - Definition of Done (DoD)
 
