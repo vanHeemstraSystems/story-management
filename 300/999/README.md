@@ -16,9 +16,9 @@ For example:
 
 For example:
 
-**We believe** providing a well-prepared environment for the FooBar application
-**will** result in reducing deployment issues and post-deployment performance concerns
-**by** at least 50%
+**We believe** providing a well-prepared environment for the FooBar application<br/>
+**will** result in reducing deployment issues and post-deployment performance concerns<br/>
+**by** at least 50%<br/>
 **by** the end of Q4 2024.
 
 ## 300 - Goal
