@@ -23,6 +23,8 @@ For example:
 
 ## 300 - Goal
 
+Source: [Using a Goal-Driven Approach to Structure User Story Sets](http://www.staff.science.uu.nl/~dalpi001/symposium-nl-re/wautelet.pdf)
+
 ...
 
 ## 400 - Business Value
