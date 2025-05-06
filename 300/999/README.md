@@ -189,11 +189,11 @@ For example; *Are people in the office? If not, the problem has been observed.*
 
 For example; *Massive scale, with just about every business being affected by lockdowns and office closures, globally.*
 
-Once you have answers to these seven questions, then you’ll be able to consolidate them down to arrive at the essence of the problem—your problem statement. With that drafted, ask yourself if it contains the following information: 
+Once you have answers to these seven questions, then you’ll be able to consolidate them down to arrive at the essence of the problem — your problem statement. With that drafted, ask yourself if it contains the following information: 
 
-Does it identify a gap (pain point), explain when, where and what that gap is speaking to, quantify the gap in terms of cost, size, quality, and so on, and explain why this gap needs to be filled?
+Does it identify a **gap (pain point)**, explain **when**, **where** and **what** that gap is speaking to, **quantify** the gap in terms of cost, size, quality, and so on, and explain **why** this gap needs to be filled?
 
-If it has all this information, congratulations—you’ve got the material that you need to clearly draft up your problem statement!
+If it has all this information, congratulations — you’ve got the material that you need to clearly draft up your problem statement!
 
 ## 800 - Possible Solution Directions
 
