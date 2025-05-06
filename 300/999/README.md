@@ -6,7 +6,7 @@ For example:
 
 **As a** [Role: e.g., Product Owner]<br/>
 **I want to** [Want: e.g., set and design a framework and guidelines for the copy pasting policy]<br/>
-**in order to** [Need: e.g.,protect the company source code].
+**in order to** [Need: e.g., protect the company source code].
 
 ## 200 - ...
 
@@ -45,12 +45,14 @@ Example:
 
 1a. Ignoring and closing the special offered products
 
+| --- | --- |
 | Given that | I'm a website user |
 | When       | I do not want to buy the special product |
 | Then       | I can close this window and continue my online shopping |
 
 1b. Adding the offered product to the shopping cart
 
+| --- | --- |
 | Given that | I'm a website user |
 | When       | I selected the offered product |
 | Then       | I add it to the shopping cart by clicking on 'Add to Cart' |
