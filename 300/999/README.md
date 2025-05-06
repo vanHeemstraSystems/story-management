@@ -21,11 +21,15 @@ For example:
 **by** at least 50%
 **by** the end of Q4 2024.
 
-## 300 - Business Value
+## 300 - Goal
 
 ...
 
-## 400 - Acceptance Criteria
+## 400 - Business Value
+
+...
+
+## 500 - Acceptance Criteria
 
 Source: https://tech-stack.com/blog/how-to-craft-clear-acceptance-criteria/
 
@@ -100,33 +104,33 @@ Example:
 | 07 | There is a limit of 200 symbols per user. |
 | 08 | Special characters cannot be searched for. Display the warning message: "Search input cannot contain special symbols." if a special symbol is typed. |
 
-## 500 - Problem Statement
+## 600 - Problem Statement
 
 ...
 
-## 600 - Possible Solution Directions
+## 700 - Possible Solution Directions
 
 ...
 
-## 700 - High Level Solution
+## 800 - High Level Solution
 
 ...
 
-## 800 - In Scope
+## 900 - In Scope
 
 - Something in scope
 - Something else in scope
 
-## 900 - Out of Scope
+## 1000 - Out of Scope
 
 - Something out of scope
 - Something else out of scope
 
-## 1000 - Definition of Ready (DoR)
+## 1100 - Definition of Ready (DoR)
 
 ...
 
-## 1100 - Definition of Done (DoD)
+## 1200 - Definition of Done (DoD)
 
 Source: https://theproductmanager.com/general/how-to-write-excellent-acceptance-criteria-with-examples/
 
@@ -147,11 +151,11 @@ e.g.,
 
 This means that the **definition of done** will remain the same for all the stories that the team is implementing unless they decide to make changes to it during the retrospectives. The **acceptance criteria**, on the other hand, are unique for each story as they are explaining the way that feature should work.
 
-## 1200 - Next Steps
+## 1300 - Next Steps
 
 Explanation of what are the next steps for this story.
 
-## 1300 - Additional Information
+## 1400 - Additional Information
 
 | | |
 | --- | --- |
