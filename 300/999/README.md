@@ -155,7 +155,45 @@ Example:
 
 ## 700 - Problem Statement
 
-...
+Source: [How To Craft A Compelling Problem Statement](https://www.antler.co/academy/how-to-write-a-problem-statement)
+
+A good problem statement is beautiful in its simplicity. It should be a one or two sentence statement that clearly articulates a problem that you—and your business—want to address. Its purpose is to inspire creative thinking but (and this is critical), it is not there to describe the solution.
+
+### 100 - The seven questions behind every good problem statement
+
+- 1) What is the problem that needs to be solved? 
+
+For example; *People can’t work in their offices for at least a few months, and possibly indefinitely.*
+
+- 2) Why is that a problem? 
+
+For example; *If people can’t work, a business isn’t likely to survive for long.*
+
+- 3) Where is the problem observed? 
+
+For example; *The office location, or, more accurately, the absence of a previously existing location to do work.*
+
+- 4) Who is impacted? 
+
+For example; *Everyone that works in the office, and, by extension, any customer that interacted with those people.*
+
+- 5) When was the problem first observed? 
+
+For example; *The day the lockdowns were announced.*
+
+- 6) How is the problem observed? 
+
+For example; *Are people in the office? If not, the problem has been observed.*
+
+- 7) How often is the problem observed? 
+
+For example; *Massive scale, with just about every business being affected by lockdowns and office closures, globally.*
+
+Once you have answers to these seven questions, then you’ll be able to consolidate them down to arrive at the essence of the problem—your problem statement. With that drafted, ask yourself if it contains the following information: 
+
+Does it identify a gap (pain point), explain when, where and what that gap is speaking to, quantify the gap in terms of cost, size, quality, and so on, and explain why this gap needs to be filled?
+
+If it has all this information, congratulations—you’ve got the material that you need to clearly draft up your problem statement!
 
 ## 800 - Possible Solution Directions
 
