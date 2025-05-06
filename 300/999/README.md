@@ -25,6 +25,8 @@ For example:
 
 Source: [Using a Goal-Driven Approach to Structure User Story Sets](http://www.staff.science.uu.nl/~dalpi001/symposium-nl-re/wautelet.pdf)
 
+![Image](https://github.com/user-attachments/assets/a5c98b42-8a91-4e6f-909e-cb0fdad9c486)
+
 ...
 
 ## 400 - Business Value
