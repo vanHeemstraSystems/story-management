@@ -287,6 +287,8 @@ Examples of dependencies:
 6) External Dependencies: Pairing: Pairing between people of different teams.
 7) External Dependencies: Remove the Dependency from the Scope of the Sprint: Fake or mock the dependency.
 
+See also [How to Manage Dependencies on Agile Projects: Agile Mentors Podcast 85](https://www.youtube.com/watch?v=x0wJOmuMO2s)
+
 ## 1300 - In Scope
 
 - Something in scope
