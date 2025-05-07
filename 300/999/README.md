@@ -277,15 +277,15 @@ Examples of dependencies:
 - Non-Agile Teams: Teams that work in waterfall don't work in Sprints. Dependency on such a team is blocking if they do not deliver within the Sprint.
 - Non-Cross Functional Teams: People lack skills, knowledge, and or tools like database access.
 
-Strategies to manage and remove dependencies:
+7 Strategies to manage and remove dependencies:
 
-1) Automation: And if automation is not possible, standardize the process.
-2) ...
-3) ...
-4) ...
-5) ...
-6) ...
-7) ...
+1) Internal Dependencies: Automation: Automate everything.
+2) Internal Dependencies: Standardization: Standardize the Process. 
+3) External Dependencies: Ad-Hoc Meetings: Set up a quick call with other teams if information is missing.
+4) External Dependencies: Refine Your Definition of Ready: Ensure the dependencies on other teams have been completed before pulling the story into the Sprint.
+5) External Dependencies: Scrum of Scrums Meeting: To synchronize the work between teams, removing blockers.
+6) External Dependencies: Pairing: Pairing between people of different teams.
+7) External Dependencies: Remove the Dependency from the Scope of the Sprint: Fake or mock the dependency.
 
 ## 1300 - In Scope
 
