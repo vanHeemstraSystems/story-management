@@ -23,6 +23,15 @@ Generated with [Rytr](https://app.rytr.me)
 
 ![Image](https://github.com/user-attachments/assets/05fb94fd-b78c-46ec-85c9-221865a3db32)
 
+<table>
+<th colspan="5">Summarize with:</th><tr/> 
+<td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/story-management/">ChatGPT</a></td>
+<td><a href="https://x.com/i/grok?text=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/story-management/">Grok</a></td>
+<td><a href="https://www.google.com/search?udm=50&aep=11&q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/story-management/">Google AI Mode</a></td>
+<td><a href="https://www.perplexity.ai/search/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/story-management/">Perplexity</a></td>
+<td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/story-management/">Claude.ai</a></td>  
+</table>
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
